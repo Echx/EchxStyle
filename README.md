@@ -1,2 +1,2 @@
 # EchxStyle
-Style Guide for Echx
+[Style guide for our projects](!https://github.com/Echx/EchxStyle/wiki)
